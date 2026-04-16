@@ -4,6 +4,6 @@
 - 📍 **Karl-Marx-Stadt**
 - 💻 **[Codeberg](https://codeberg.org/haesemeyer)**
 - 💻 [Github](https://github.com/haesemeyer-gh)
-- 🌐 **[Website](https://haesemeyer.codeberg.page)**
+- 🌐 **[Website](https://osthase.tech)**
 - ✉️ **[Email/XMPP](mailto:haesemeyer@mailbox.org)**
 - 🔑 **[PGP](https://codeberg.org/haesemeyer.gpg)**
